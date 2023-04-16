@@ -1,4 +1,4 @@
-# _Project Name_
+# _Ping Pong Game_
 
 #### By _**Amanda Guan**_
 
