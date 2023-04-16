@@ -1,9 +1,9 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace ProjectName.Tests
+namespace PingPong.Tests
 {
     [TestClass]
-    public class ClassNameTests
+    public class NumberTests
     {
         [TestMethod]
         public void MethodName_DescriptionOfBehavior_ExpectedReturnValue()
