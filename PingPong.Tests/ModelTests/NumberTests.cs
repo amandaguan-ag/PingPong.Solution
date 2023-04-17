@@ -20,7 +20,7 @@ namespace PingPong.Tests
           Assert.AreEqual(typeof(Number), newNumber.GetType());
       }
       [TestMethod]
-    public void CreatePingPongList_ReturnsPingPongList_ListOfNumbers()
+    public void CreatePingPongList_ReturnsPingPongList_List()
     {
         // Arrange
         int userInput = 15;
